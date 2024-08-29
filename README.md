@@ -1,2 +1,2 @@
-# Website
-Sphynx website
+# Sphynx Website
+The Sphynx website
